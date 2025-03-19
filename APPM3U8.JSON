@@ -1,7 +1,7 @@
 [
     {
       "id": 3,
-      "name": "Filmes e Séries Bel",
+      "name": "Filmes e Séries",
       "logo": "https://explouddev.com.br/maxnettv/logos/mntv_fastcine0001.png",
       "type": "web",
       "ref": "https://embedstream.org/",
@@ -44,7 +44,7 @@
     {
       "id": 10,
       "name": "Band",
-      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_band0001.png",
+      "logo": "https://ebertmendes.com.br/assets/img/hero-bg.png",
       "type": "live",
       "ref": "https://embedstream.org/",
       "extra": "",
