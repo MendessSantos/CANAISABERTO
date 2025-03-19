@@ -1,0 +1,260 @@
+[
+    {
+      "id": 3,
+      "name": "Filmes e Séries",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_fastcine0001.png",
+      "type": "web",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01",
+          "link": "https://explouddev.com.br/download.php?file=FastCine+Oficial+v3.0.apk"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Garanta Agora!",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_maxnetiptv0002.gif",
+      "type": "web",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01",
+          "link": "https://explouddev.com.br/maxnetiptv"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Siga-nos",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_instagram0001.png",
+      "type": "web",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01",
+          "link": "https://instagram.com/maxnettv.oficial"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Band",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_band0001.png",
+      "type": "live",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Band SP(RDC)",
+          "link": "https://livst.site/band/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "Band RJ(CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/255474.m3u8"
+        },
+        {
+          "name": "Band MG(CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/255482.m3u8"
+        },
+        {
+          "name": "Band BA(CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/286193.m3u8"
+        },
+        {
+          "name": "Band Brasília(CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/255472.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Futura",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_futura0001.png",
+      "type": "live",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01(CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/159.m3u8"
+        },
+        {
+          "name": "Opção 02",
+          "link": "https://stlvs.click/futura/index.m3u8"
+        },
+        {
+          "name": "Opção 03",
+          "link": "https://play.embehub.com/FUTURA/index.fmp4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Globo",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_globo0001.png",
+      "type": "live",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Globo BA(RDC)",
+          "link": "https://livst.site/globoba-tvbahia/index.m3u8"
+        },
+        {
+          "name": "Globo SP(RDC)",
+          "link": "https://livst.site/globosp-globosaopaulo/index.m3u8"
+        },
+        {
+          "name": "Globo RJ(RDC)",
+          "link": "https://livst.site/globorj-globorio/index.m3u8"
+        },
+        {
+          "name": "Globo MG(RDC)",
+          "link": "https://livst.site/globomg-globominas/index.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Record",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_record0001.png",
+      "type": "live",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01(RDC)",
+          "link": "https://livst.site/record/index.m3u8"
+        },
+        {
+          "name": "Opção 02",
+          "link": "https://explouddev.com.br/api/app/proxy.php?url=https://stlvs.click/record/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "Opção 03",
+          "link": "https://embedcanaistv.live/recordsp/video.m3u8"
+        },
+        {
+          "name": "Opção 04",
+          "link": "http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Record Belém",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_record0001.png",
+      "type": "live",
+      "ref": "https://futemax.app/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01",
+          "link": "https://digasimeudinao.online/bsgsysu2014TVABERTA-RECORD-BELEM/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Rede Brasil",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_redebrasil0001.png",
+      "type": "live",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01",
+          "link": "https://podenao.shop/REDE-BRASIL/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "RedeTV!",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_redetv0001.png",
+      "type": "live",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01",
+          "link": "https://embedcanaistv.live/redetv/video.m3u8"
+        },
+        {
+          "name": "Opção 02",
+          "link": "https://stlvs.click/redetv/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "SBT",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_sbt0001.png",
+      "type": "live",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "SBT SP (CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/244161.m3u8"
+        },
+        {
+          "name": "SBT RJ(CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/244173.m3u8"
+        },
+        {
+          "name": "SBT BA(CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/377246.m3u8"
+        },
+        {
+          "name": "SBT MG(CDN)",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/244184.m3u8"
+        },
+        {
+          "name": "SBT Pará",
+          "link": "https://podenao.shop/SBT-PARA/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "TV Acrítica",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_tvacritica0001.png",
+      "type": "live",
+      "ref": "https://futemax.app/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01",
+          "link": "http://zutufo.in/live/781487031/K788a6763d/244119.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "TV Cultura",
+      "logo": "https://explouddev.com.br/maxnettv/logos/mntv_tvcultura0001.png",
+      "type": "live",
+      "ref": "https://embedstream.org/",
+      "extra": "",
+      "sources": [
+        {
+          "name": "Opção 01",
+          "link": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w884249386.m3u8"
+        },
+        {
+          "name": "Opção 02",
+          "link": "https://embedcanaistv.live/tvcultura/video.m3u8"
+        },
+        {
+          "name": "Opção 03(Novo)",
+          "link": "https://stlvs.click/tvcultura/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    }
+  ]
